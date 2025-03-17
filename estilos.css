@@ -1,0 +1,40 @@
+
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+body{
+
+
+background: orange;
+text-align: center;
+
+}
+
+#container{
+    width: 1100ox;
+    margin: 0px auto;
+    border: 1px solid white;
+    
+}
+
+nav ul li{
+    float: right;
+    padding: 10px;
+    list-style: none;
+    
+}
+
+.clearfix{
+
+    clear: both;
+    }
+
+    nav{
+
+        background: rgb(179, 172, 172);
+        height: 50px;
+
+    }
